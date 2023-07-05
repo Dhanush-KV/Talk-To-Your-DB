@@ -1,0 +1,7 @@
+To run this application, follow these setup steps.
+
+Step 1: Check for the Python IDLE in your system.
+Step 2: Install MySQL in your system, which includes MySQL command line client.
+Step 3: Open the MySQL command line client and create a database using the command "CREATE DATABASE databasename;"
+        In this application, the name used for the database is "speech"
+
