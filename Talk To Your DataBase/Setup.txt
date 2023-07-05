@@ -4,4 +4,16 @@ Step 1: Check for the Python IDLE in your system.
 Step 2: Install MySQL in your system, which includes MySQL command line client.
 Step 3: Open the MySQL command line client and create a database using the command "CREATE DATABASE databasename;"
         In this application, the name used for the database is "speech"
-
+Step 4: Create two tables to store employee details.
+        The command for Table 1: " CREATE TABLE voidion (
+                                       RegNo int NOT NULL,
+                                       Name varchar(30),
+                                       Salary varchar(30),
+                                       PRIMARY KEY(RegNo)
+                                   ); "
+        The command for Table 2: " CREATE TABLE contact (
+                                       RegNo int NOT NULL,
+                                       Phone varchar(30),
+                                       PRIMARY KEY(RegNo)
+                                   ); "
+Step 5: 
